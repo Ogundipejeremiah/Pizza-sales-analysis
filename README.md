@@ -19,7 +19,7 @@ This project focuses on leveraging SQL, Python, and Tableau to analyze HR data, 
 
 ### Data sources
 
-Pizza Sales Data: The primary dataset used for this analysis is the 'pizza_sales_excel_file.xlsx' file, which contains detailed information about the company's workforce.
+Pizza Sales Data: The primary dataset used for this analysis is the 'pizza_sales_excel_file.xlsx' file, which contains detailed information about the pizza sales.
 
 ### Tool
 
@@ -238,3 +238,10 @@ plt.xlabel("Pizza Name")
 plt.ylabel("Total Quantity Sold")
 plt.xticks(rotation=60)
 plt.show()
+```
+### Results/Findings
+
+The analysis results are summarized as follows;
+
+### Recommendations
+Based on the analysis, the following are recommended;
