@@ -38,6 +38,12 @@ In the initial data preparation phase, we performed the following tasks:
 ### Exploratory Data Analysis (EDA)
 EDA involved exploring the company's workforce to answer various questions, such as;
 
+1. Revenue Trends: What are the trends in total revenue over time, and what factors (such as order values or sales volume) drive revenue?
+2. Order Insights: What is the average order value (AOV), how many pizzas are ordered on average per order, and how does this vary by time of day?
+3. Sales Trends: How do total orders and revenue fluctuate by hour and day, and how can this inform resource allocation and staffing?
+4. Category Performance: What percentage of sales comes from each pizza category (Veg, Non-Veg, Specialty), and how can this guide inventory and marketing?
+5. Best and Worst Sellers: Which pizzas are the top 5 best-sellers and bottom 5 worst-sellers in each category, and how can this inform menu adjustments?
+
 ### Data analysis
 
 Includes some codes/features worked with
@@ -243,5 +249,17 @@ plt.show()
 
 The analysis results are summarized as follows;
 
+1. Revenue Trends: Clear patterns in high and low revenue days or times, identifying drivers of revenue such as peak order volume or pricing changes.
+2. Order Insights: Insights into average order values and pizzas per order, with opportunities to adjust pricing or upselling strategies based on time-of-day fluctuations.
+3. Sales Trends: Identification of peak hours for orders and revenue, enabling efficient staffing and operational adjustments.
+4. Category Performance: Visibility into which pizza categories are the highest and lowest in sales, informing inventory planning and marketing strategies.
+5. Best and Worst Sellers: Identification of the best-performing pizzas to promote and the worst-sellers to rework or discontinue, optimizing the menu for better profitability.
+
 ### Recommendations
 Based on the analysis, the following are recommended;
+
+1. Revenue Optimization: Implement promotions or adjust pricing during peak hours to maximize revenue, and offer special deals during slow periods to boost sales.
+2. Order Insights: Use AOV and average pizzas per order to create bundle deals or upsell strategies, particularly during times identified with lower order values.
+3. Operational Efficiency: Adjust staffing based on hourly sales trends, ensuring optimal service during peak times and reducing waste during off-peak hours.
+4. Inventory and Menu Strategy: Stock up on popular pizza categories and sizes while considering revamping or removing low-performing pizzas, and use targeted marketing to promote top-sellers.
+5. Marketing and Promotions: Use insights into best and worst sellers to create targeted campaigns, incentivize repeat purchases of top pizzas, and revitalize or discount underperforming menu items.
