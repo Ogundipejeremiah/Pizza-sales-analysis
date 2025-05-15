@@ -15,7 +15,7 @@
 ---
 ![Pizza sales Dashboard](https://github.com/user-attachments/assets/2f861817-4d89-41cf-ae1a-dcbd6792509f)
 
-This project focuses on leveraging SQL, Python, and Tableau to analyze HR data, uncover actionable insights, and monitor key workforce metrics. The project involves building a data pipeline to acquire, clean, and process Pizza sales datasets, followed by exploratory data analysis (EDA) to identify trends. Finally, interactive KPI dashboards are created in Tableau to visualize and track essential sales metrics, enabling data-driven decision-making.
+This project focuses on leveraging SQL, Python, and Tableau to analyze Pizza sales data, uncover actionable insights, and monitor key workforce metrics. The project involves building a data pipeline to acquire, clean, and process Pizza sales datasets, followed by exploratory data analysis (EDA) to identify trends. Finally, interactive KPI dashboards are created in Tableau to visualize and track essential sales metrics, enabling data-driven decision-making.
 
 ### Data sources
 
