@@ -36,7 +36,7 @@ In the initial data preparation phase, we performed the following tasks:
 3. Data Cleaning and formatting.
 
 ### Exploratory Data Analysis (EDA)
-EDA involved exploring the company's workforce to answer various questions, such as;
+EDA involved exploring the company's pizza sales to answer various questions, such as;
 
 1. Revenue Trends: What are the trends in total revenue over time, and what factors (such as order values or sales volume) drive revenue?
 2. Order Insights: What is the average order value (AOV), how many pizzas are ordered on average per order, and how does this vary by time of day?
